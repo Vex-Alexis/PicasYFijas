@@ -1,0 +1,15 @@
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\bin\Debug\net6.0\PicasFijas.exe
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\bin\Debug\net6.0\PicasFijas.deps.json
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\bin\Debug\net6.0\PicasFijas.runtimeconfig.json
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\bin\Debug\net6.0\PicasFijas.dll
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\bin\Debug\net6.0\PicasFijas.pdb
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.csproj.AssemblyReference.cache
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.AssemblyInfoInputs.cache
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.AssemblyInfo.cs
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.csproj.CoreCompileInputs.cache
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.dll
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\refint\PicasFijas.dll
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.pdb
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\PicasFijas.genruntimeconfig.cache
+C:\Users\THELMARTAKE\Documents\03 - Laboral\02 - procesosSeleccion\2023\CUN\Prueba_Tecnica\AppConsola\Juego\PicasFijas\obj\Debug\net6.0\ref\PicasFijas.dll
