@@ -14,7 +14,7 @@ Bienvenido al juego "Picas y Fijas" implementado en C#! En este juego, tu objeti
 
   ## Ejecución del Juego
 
-  1. Clona el repositorio:
+1. Clona el repositorio:
    git clone https://github.com/Vex-Alexis/PicasYFijas
 
 2. Navega al directorio del proyecto:
